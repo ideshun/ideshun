@@ -4,7 +4,7 @@
 
 你好，我是 Deshun ，一位工作时长3年半的前端实习生，这是我的个人博客 [前端资源网](https://www.w3h5.com) 。
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ideshun&count_private=true&show_icons=true&hide=prs">](https://github.com/ideshun)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ideshun&count_private=true&show_icons=true">](https://github.com/ideshun)
 
 I'm **Deshun**, a Front-end Engineer from Shandong, China.
 
@@ -16,14 +16,14 @@ I'm **Deshun**, a Front-end Engineer from Shandong, China.
 
 
 #### 技术栈&开发工具
-<code><img height="20" src="https://github.com/ideshun/ideshun/raw/master/data/images/logo-Vue.png"></code>
-<code><img height="20" src="https://github.com/ideshun/ideshun/raw/master/data/images/logo-JavaScript"></code>
-<code><img height="20" src="https://github.com/ideshun/ideshun/raw/master/data/images/logo-HTML5"></code>
-<code><img height="20" src="https://github.com/ideshun/ideshun/raw/master/data/images/logo-CSS3"></code>
-<code><img height="20" src="https://github.com/ideshun/ideshun/raw/master/data/images/logo-Git"></code>
-<code><img height="20" src="https://github.com/ideshun/ideshun/raw/master/data/images/logo-webpack"></code>
-<code><img height="20" src="https://github.com/ideshun/ideshun/raw/master/data/images/logo-PhpStorm"></code>
-<code><img height="20" src="https://github.com/ideshun/ideshun/raw/master/data/images/logo-VSCode"></code>
+<code><img height="20" src="https://github.com/ideshun/ideshun/blob/main/images/logo-Vue.png"></code>
+<code><img height="20" src="https://github.com/ideshun/ideshun/blob/main/images/logo-JavaScript"></code>
+<code><img height="20" src="https://github.com/ideshun/ideshun/blob/main/images/logo-HTML5"></code>
+<code><img height="20" src="https://github.com/ideshun/ideshun/blob/main/images/logo-CSS3"></code>
+<code><img height="20" src="https://github.com/ideshun/ideshun/blob/main/images/logo-Git"></code>
+<code><img height="20" src="https://github.com/ideshun/ideshun/blob/main/images/logo-webpack"></code>
+<code><img height="20" src="https://github.com/ideshun/ideshun/blob/main/images/logo-PhpStorm"></code>
+<code><img height="20" src="https://github.com/ideshun/ideshun/blob/main/images/logo-VSCode"></code>
 
 [![Deshun's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ideshun&layout=compact)](https://github.com/ideshun)
 
