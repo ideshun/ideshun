@@ -16,14 +16,14 @@ I'm **Deshun**, a Front-end Engineer from Shandong, China.
 
 
 #### 技术栈&开发工具
-<code><img height="20" src="/ideshun/ideshun/blob/main/images/logo-Vue.png"></code>
-<code><img height="20" src="/ideshun/ideshun/blob/main/images/logo-JavaScript.png"></code>
-<code><img height="20" src="/ideshun/ideshun/blob/main/images/logo-HTML5.png"></code>
-<code><img height="20" src="/ideshun/ideshun/blob/main/images/logo-CSS3.png"></code>
-<code><img height="20" src="/ideshun/ideshun/blob/main/images/logo-Git.png"></code>
-<code><img height="20" src="/ideshun/ideshun/blob/main/images/logo-webpack.png"></code>
-<code><img height="20" src="/ideshun/ideshun/blob/main/images/logo-PhpStorm.png"></code>
-<code><img height="20" src="/ideshun/ideshun/blob/main/images/logo-VSCode.png"></code>
+<code><img height="20" src="https://github.com/ideshun/ideshun/blob/main/images/logo-Vue.png"></code>
+<code><img height="20" src="https://github.com/ideshun/ideshun/blob/main/images/logo-JavaScript.png"></code>
+<code><img height="20" src="https://github.com/ideshun/ideshun/blob/main/images/logo-HTML5.png"></code>
+<code><img height="20" src="https://github.com/ideshun/ideshun/blob/main/images/logo-CSS3.png"></code>
+<code><img height="20" src="https://github.com/ideshun/ideshun/blob/main/images/logo-Git.png"></code>
+<code><img height="20" src="https://github.com/ideshun/ideshun/blob/main/images/logo-webpack.png"></code>
+<code><img height="20" src="https://github.com/ideshun/ideshun/blob/main/images/logo-PhpStorm.png"></code>
+<code><img height="20" src="https://github.com/ideshun/ideshun/blob/main/images/logo-VSCode.png"></code>
 
 [![Deshun's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ideshun&layout=compact)](https://github.com/ideshun)
 
