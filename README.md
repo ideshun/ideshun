@@ -14,7 +14,7 @@ I'm **Deshun**, a Front-end Engineer from Shandong, China.
 -   :man: Pronouns: he/him
 
 
-#### 技术栈&开发工具
+#### :hammer_and_wrench: Technology & Tools
 <code><img height="20" src="https://github.com/ideshun/ideshun/blob/main/images/logo-Vue.png"></code>
 <code><img height="20" src="https://github.com/ideshun/ideshun/blob/main/images/logo-JavaScript.png"></code>
 <code><img height="20" src="https://github.com/ideshun/ideshun/blob/main/images/logo-HTML5.png"></code>
@@ -26,4 +26,9 @@ I'm **Deshun**, a Front-end Engineer from Shandong, China.
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ideshun&layout=compact">](https://github.com/ideshun)
 
+
+#### :octocat: Projects starred by me
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ideshun&repo=miniProgram-tmp)](https://github.com/ideshun/miniProgram-tmp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ideshun&repo=example)](https://github.com/ideshun/example)
 
