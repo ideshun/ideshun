@@ -1,7 +1,7 @@
 ### Hey, Deshun here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://komarev.com/ghpvc/?username=ideshun)
 
 
-你好，我是 Deshun ，一位工作时长3年半的前端实习生，这是我的个人博客 [前端资源网](https://www.w3h5.com) 。
+你好，我是 Deshun ，一位工作时长5年半的前端实习生，这是我的个人博客 [前端资源网](https://www.w3h5.com) 。
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ideshun&count_private=true&show_icons=true">](https://github.com/ideshun)
 
